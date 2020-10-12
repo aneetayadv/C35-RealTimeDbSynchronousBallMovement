@@ -1,2 +1,2 @@
-# C35-RealTimeDbSynchronousBallMovement
-C35 - Synchronous Ball Movement [Multiplayer Car Racing Game]
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
